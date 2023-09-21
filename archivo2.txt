@@ -1,2 +1,0 @@
-Este es el archivo 2 para explicar Git y Github
-Vamos a cambiar este archivo para explicar como hacer y deshacer cambios
